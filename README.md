@@ -1,4 +1,5 @@
-<h1>Website for elite real-estate company. Online magazine</h1>
+<h1>Rublevka.ru</h1>
+<h2>Website for elite real-estate company. Online magazine</h2>
 
 http://rublevka.com/
 
